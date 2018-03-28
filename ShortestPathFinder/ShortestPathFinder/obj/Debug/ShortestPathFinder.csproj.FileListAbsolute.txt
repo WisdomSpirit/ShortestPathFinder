@@ -1,0 +1,5 @@
+C:\Users\111\RiderProjects\ShortestPathFinder\ShortestPathFinder\bin\Debug\ShortestPathFinder.exe
+C:\Users\111\RiderProjects\ShortestPathFinder\ShortestPathFinder\bin\Debug\ShortestPathFinder.pdb
+C:\Users\111\RiderProjects\ShortestPathFinder\ShortestPathFinder\obj\Debug\ShortestPathFinder.csprojResolveAssemblyReference.cache
+C:\Users\111\RiderProjects\ShortestPathFinder\ShortestPathFinder\obj\Debug\ShortestPathFinder.exe
+C:\Users\111\RiderProjects\ShortestPathFinder\ShortestPathFinder\obj\Debug\ShortestPathFinder.pdb
